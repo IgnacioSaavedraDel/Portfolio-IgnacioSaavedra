@@ -1,7 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap");
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 
-@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap");
 @utility dotted-grid {
   background-image: radial-gradient(
     circle at 2px 2px,

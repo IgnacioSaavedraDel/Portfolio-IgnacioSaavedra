@@ -2,7 +2,10 @@ export default function ProjectCard({ project }) {
   return (
     <div className="bg-white rounded-xl shadow-md p-6 border border-gray-200 hover:shadow-lg transition-shadow">
       <div className="w-full h-40 bg-gradient-to-br from-green-100 to-blue-100 rounded-lg mb-4 flex items-center justify-center">
-        <img src={project.image} />
+        <img
+          src={project.image}
+          className="w-full h-40 object-cover rounded-lg"
+        />
       </div>
       <h3 className="text-xl font-bold text-gray-800 mb-2">{project.title}</h3>
       <p className="text-gray-600 mb-4 text-sm leading-relaxed">

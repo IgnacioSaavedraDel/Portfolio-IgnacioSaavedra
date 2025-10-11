@@ -5,6 +5,8 @@ import About from "./pages/About";
 import Navbar from "./components/organisms/Navbar";
 import GridBackground from "./components/atoms/GridBackground";
 import Music from "./pages/Music";
+import News from "./pages/News";
+import Contact from "./pages/Contact";
 
 function App() {
   return (
@@ -15,6 +17,8 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/music" element={<Music />} />
+          <Route path="/news" element={<News />} />
+          <Route path="/contact" element={<Contact />} />
         </Routes>
       </GridBackground>
     </>

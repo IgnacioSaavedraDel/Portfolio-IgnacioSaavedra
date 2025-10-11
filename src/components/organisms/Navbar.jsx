@@ -12,9 +12,9 @@ function Navbar() {
       ? "Sobre mí"
       : location.pathname === "/music"
       ? "Música"
-      : location.pathname === "/produccion"
-      ? "Producción"
-      : location.pathname === "/contacto"
+      : location.pathname === "/news"
+      ? "Noticias"
+      : location.pathname === "/contact"
       ? "Contacto"
       : "Inicio"
   );
@@ -56,8 +56,8 @@ function Navbar() {
     { label: "Inicio", path: "/" },
     { label: "Sobre mí", path: "/about" },
     { label: "Música", path: "/music" },
-    { label: "Producción", path: "/produccion" },
-    { label: "Contacto", path: "/contacto" },
+    { label: "Noticias", path: "/news" },
+    { label: "Contacto", path: "/contact" },
   ];
 
   return (

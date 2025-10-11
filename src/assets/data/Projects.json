@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "del canto.",
+    "description": "Es un proyecto donde exploro la relación entre el sonido, la emoción y la naturaleza. A través de la música botánica, el diseño espectral y una estética orgánica y experimental, busco crear paisajes sonoros que conecten lo humano con lo ambiental, lo digital con lo vivo.",
+    "technologies": [
+      "Ableton Live",
+      "Field Recording",
+      "Spectral Design",
+      "Fl Studio"
+    ],
+    "image": "/delcanto.webp",
+    "projectUrl": "https://open.spotify.com/intl-es/artist/12oFpz1Oe0yk3rVfKPuYoh",
+    "year": 2024
+  }
+]

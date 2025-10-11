@@ -6,7 +6,7 @@ function News() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("src/assets/data/News.json")
+    fetch("/data/News.json")
       .then((response) => response.json())
       .then((data) => {
         setProjects(data);

@@ -6,7 +6,7 @@ function Music() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("src/assets/data/Projects.json")
+    fetch("/data/Projects.json")
       .then((response) => response.json())
       .then((data) => {
         setProjects(data);

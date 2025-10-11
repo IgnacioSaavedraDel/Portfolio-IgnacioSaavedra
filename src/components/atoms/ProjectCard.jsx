@@ -8,11 +8,12 @@ export default function ProjectCard({ project }) {
         />
       </div>
       <h3 className="text-xl font-bold text-gray-800 mb-2">{project.title}</h3>
+      <span className="py-2 text-gray-600 font-bold">{project.date}</span>
       <p className="text-gray-600 mb-4 text-sm leading-relaxed">
         {project.description}
       </p>
       <div className="flex flex-wrap gap-2 mb-4">
-        {project.technologies.map((tag) => (
+        {project.tags.map((tag) => (
           <span
             key={tag}
             className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-xs"

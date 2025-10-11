@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "title": "del canto.",
+    "title": "Tocata Bailando toa la noche",
     "description": "Es un proyecto donde exploro la relación entre el sonido, la emoción y la naturaleza. A través de la música botánica, el diseño espectral y una estética orgánica y experimental, busco crear paisajes sonoros que conecten lo humano con lo ambiental, lo digital con lo vivo.",
-    "tags": ["Ableton Live", "Field Recording", "Spectral Design", "Fl Studio"],
-    "image": "Proyectos/delcanto.webp",
-    "projectUrl": "https://open.spotify.com/intl-es/artist/12oFpz1Oe0yk3rVfKPuYoh"
+    "date": "2",
+    "tags": ["Evento"],
+    "image": "Proyectos/delcanto.webp"
   },
   {
     "id": 2,
-    "title": "Toy Pipes",
+    "title": "Festival aquelarre",
     "description": "Es un proyecto donde exploro la relación entre el sonido, la emoción y la naturaleza. A través de la música botánica, el diseño espectral y una estética orgánica y experimental, busco crear paisajes sonoros que conecten lo humano con lo ambiental, lo digital con lo vivo.",
-    "tags": ["Ableton Live", "Fl Studio", "Live Performing", "Live Sampling"],
-    "image": "Proyectos/toypipes.webp",
-    "projectUrl": "https://open.spotify.com/intl-es/artist/12oFpz1Oe0yk3rVfKPuYoh"
+    "date": "2",
+    "tags": ["Evento"],
+    "image": "Proyectos/delcanto.webp"
   },
   {
     "id": 3,
-    "title": "Audiovisual y Media",
+    "title": "Toy Pipes anuncia nueva cancion producida por delcatom",
     "description": "Es un proyecto donde exploro la relación entre el sonido, la emoción y la naturaleza. A través de la música botánica, el diseño espectral y una estética orgánica y experimental, busco crear paisajes sonoros que conecten lo humano con lo ambiental, lo digital con lo vivo.",
-    "tags": ["Ableton Live", "Fl Studio", "Live Performing", "Live Sampling"],
-    "image": "Proyectos/media.webp",
-    "projectUrl": "https://open.spotify.com/intl-es/artist/12oFpz1Oe0yk3rVfKPuYoh"
+    "date": "2",
+    "tags": ["Anuncio"],
+    "image": "Proyectos/delcanto.webp"
   }
 ]

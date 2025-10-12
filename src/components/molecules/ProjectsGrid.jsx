@@ -1,4 +1,4 @@
-import ProjectCard from "../atoms/ProjectCard";
+import ProjectCard from "../molecules/ProjectCard";
 
 export default function ProjectsGrid({ projects, loading }) {
   /*if (loading) {

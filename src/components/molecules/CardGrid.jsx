@@ -18,7 +18,7 @@ export default function CardGrid() {
           height="600"
           frameborder="no"
           allow="autoplay"
-          src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%3Atracks%3A2175586167%3Fsecret_token%3Ds-20blDg4KgLl&color=%232e8b57&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+          src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%3Aplaylists%3A2095221511%3Fsecret_token%3Ds-ZbZX2Zo5o8N&color=%23348f27&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
         ></iframe>
       </li>
     </ul>

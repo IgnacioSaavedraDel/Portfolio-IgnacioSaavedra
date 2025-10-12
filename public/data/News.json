@@ -1,26 +1,29 @@
 [
   {
     "id": 1,
-    "title": "Tocata Bailando toa la noche",
-    "description": "Es un proyecto donde exploro la relación entre el sonido, la emoción y la naturaleza. A través de la música botánica, el diseño espectral y una estética orgánica y experimental, busco crear paisajes sonoros que conecten lo humano con lo ambiental, lo digital con lo vivo.",
-    "date": "2",
+    "title": "Tocata Bailando Toda La Noche",
+    "description": "Prepárate para Bailando toda la noche, un evento que reúne los sonidos indie de Toy Pipes, Chica Lunar y Lolito Sinclair. Una velada diseñada para disfrutar y no parar de bailar con lo mejor de la escena musical actual.",
+    "date": "2 de Noviembre 2025",
     "tags": ["Evento"],
-    "image": "news/BailandoTodaLaNoche.webp"
+    "image": "news/BailandoTodaLaNoche.webp",
+    "projectUrl": "https://www.instagram.com/p/DLQmDvkSHlE/?utm_source=ig_web_copy_link&igsh=dndwcHVkMzlvbXJv"
   },
   {
     "id": 2,
     "title": "Festival aquelarre",
-    "description": "Es un proyecto donde exploro la relación entre el sonido, la emoción y la naturaleza. A través de la música botánica, el diseño espectral y una estética orgánica y experimental, busco crear paisajes sonoros que conecten lo humano con lo ambiental, lo digital con lo vivo.",
-    "date": "2",
+    "description": "Se viene la tercera edición del Festival Aquelarre en Espacio Elefante. Disfruta de una tarde con música en vivo y actividades creativas. La entrada incluye una taza de té y ya puedes conseguir tus preventas en Portaldisc. ¡No te lo pierdas!",
+    "date": "25 de Noviembre 2025",
     "tags": ["Evento"],
-    "image": "news/FestivalAquelarre.webp"
+    "image": "news/FestivalAquelarre.webp",
+    "projectUrl": "https://www.instagram.com/p/C-RD04kBTLv/?img_index=1"
   },
   {
     "id": 3,
-    "title": "Toy Pipes anuncia nueva cancion producida por delcatom",
-    "description": "Es un proyecto donde exploro la relación entre el sonido, la emoción y la naturaleza. A través de la música botánica, el diseño espectral y una estética orgánica y experimental, busco crear paisajes sonoros que conecten lo humano con lo ambiental, lo digital con lo vivo.",
-    "date": "2",
+    "title": "Toy Pipes anuncia nueva cancion",
+    "description": "Toy Pipes anuncia su nueva canción producida por delcanto, que se estrenará este 18 de octubre. El proyecto se describe como una exploración de la relación entre el sonido, la emoción y la naturaleza a través de paisajes sonoros.",
+    "date": "18 de Octubre 2025",
     "tags": ["Anuncio"],
-    "image": "Proyectos/delcanto.webp"
+    "image": "Proyectos/delcanto.webp",
+    "projectUrl": "https://www.youtube.com/watch?v=biRJS5fnBs0"
   }
 ]

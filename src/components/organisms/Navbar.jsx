@@ -21,8 +21,8 @@ function Navbar() {
 
   // sonidos, musica y botones - empieza muteado por defecto :C porque sino me lo bloquea el navegador
   const [soundOn, setSoundOn] = React.useState(false);
-  const clickSound = useRef(new Audio("/SeleccionNavBar.ogg"));
-  const backgroundMusic = useRef(new Audio("/TemaFondo.ogg"));
+  const clickSound = useRef(new Audio("audio/SeleccionNavBar.ogg"));
+  const backgroundMusic = useRef(new Audio("audio/TemaFondo.ogg"));
 
   // volumen
   React.useEffect(() => {
@@ -70,7 +70,7 @@ function Navbar() {
             onClick={() => handleClick({ label: "Inicio", path: "/" })}
           >
             <img
-              src="/Logos/Isotipo_Corporativo.webp"
+              src="/logos/Isotipo_Corporativo.webp"
               alt="Logo del canto."
               className="w-20 h-20 object-contain transition-transform duration-300 group-hover:scale-110"
             />

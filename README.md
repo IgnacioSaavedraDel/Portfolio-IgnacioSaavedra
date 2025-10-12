@@ -1,16 +1,42 @@
-# React + Vite
+Portafolio Personal - Ignacio Saavedra
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es mi portafolio personal, desarrollado para la Evaluación 2 de la asignatura Desarrollo Fullstack II (DSY1104).
 
-Currently, two official plugins are available:
+La aplicación fue creada con React y Vite, y muestra información sobre mí y mis proyectos. El objetivo era construir un sitio web responsivo, con componentes reutilizables y pruebas unitarias para asegurar su funcionamiento.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tecnologías Utilizadas
 
-## React Compiler
+- React
+- Vite
+- Tailwind CSS
+- React Router
+- Karma y Jasmine (para las pruebas)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---- Instalación
+
+1.  Entrar a la carpeta del proyecto
+    cd hasta-la-direccion
+
+2.  Instalar las dependencias
+    npm install
+
+Uso
+
+Para iniciar el proyecto en modo de desarrollo, ejecuta el siguiente comando:
+
+
+npm run dev
+
+
+Esto abrirá el sitio en tu navegador, usualmente en `http://localhost:5173`.
+
+
+Pruebas Unitarias
+
+El proyecto cuenta con pruebas unitarias para verificar el correcto funcionamiento de los componentes.
+
+Para ejecutar las pruebas, usa este comando en la terminal:
+
+npm run test

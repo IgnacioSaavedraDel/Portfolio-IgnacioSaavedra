@@ -40,3 +40,9 @@ El proyecto cuenta con pruebas unitarias para verificar el correcto funcionamien
 Para ejecutar las pruebas, usa este comando en la terminal:
 
 npm run test
+
+<img width="1320" height="609" alt="image" src="https://github.com/user-attachments/assets/827f1617-f16a-4d0b-851f-cb74630b84d7" />
+
+<img width="1331" height="642" alt="image" src="https://github.com/user-attachments/assets/26803fea-a19a-42fe-93ea-e889039b39d6" />
+
+<img width="1332" height="635" alt="image" src="https://github.com/user-attachments/assets/be3ab45f-7ddf-4304-a95e-5ac82f8cff48" />

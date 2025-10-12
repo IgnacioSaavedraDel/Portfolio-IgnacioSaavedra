@@ -63,7 +63,7 @@ function Navbar() {
   return (
     <nav className="top-0 left-0 right-0 z-50 py-6 bg-gradient-to-b from-gray-100 to-transparent to-80%">
       <div className="max-w-7xl mx-auto px-6">
-        <div className="flex justify-between items-center">
+        <div className="flex justify-between items-center flex-col lg:flex-row gap-y-6">
           <Link
             to="/"
             className="flex items-center gap-3 text-gray-600 hover:text-green-500 transition-colors group"
@@ -78,7 +78,7 @@ function Navbar() {
           </Link>
 
           <div className="flex-1 flex justify-center">
-            <ul className="flex gap-4">
+            <ul className="flex gap-4 flex-col lg:flex-row">
               {items.map((item, index) => (
                 <Link
                   key={index}

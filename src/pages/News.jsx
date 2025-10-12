@@ -13,14 +13,16 @@ function News() {
         setLoading(false);
       })
       .catch((error) => {
-        console.error("Error cargando proyectos:", error);
+        console.error("Error cargando noticias:", error);
         setLoading(false);
       });
   }, []);
 
   return (
-    <main className="flex flex-col py-20 items-center justify-center">
-      <h1 className="text-3xl mb-8 text-gray-800">Proyectos Musicales</h1>
+    <main className="flex flex-col py-12 lg:py-20 items-center justify-center px-4 lg:px-8">
+      <h1 className="text-2xl lg:text-4xl mb-6 lg:mb-8 text-gray-800 text-center">
+        Noticias
+      </h1>
       <ProjectsGrid projects={projects} loading={loading} />
     </main>
   );

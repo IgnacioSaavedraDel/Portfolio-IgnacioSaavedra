@@ -11,7 +11,7 @@ function ContactForm() {
       `Nombre: ${name}\nEmail: ${email}\n\n${message}`
     );
 
-    window.location.href = `mailto:tu@correo.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:isaavedra92@gmail.com?subject=${subject}&body=${body}`;
   };
 
   return (

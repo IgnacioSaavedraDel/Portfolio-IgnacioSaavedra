@@ -4,7 +4,7 @@ function About() {
       <div className="flex flex-col md:flex-row gap-8 items-center justify-center bg-gray-50 border-6 border-white rounded-xl px-6 py-10 shadow-xl shadow-gray-200">
         <div className="relative">
           <img
-            src="logos/About.webp"
+            src="Logos/About.webp"
             alt="Ranita durmiendo en el metro hora punta camino a talagante, ohno tiene que ir a estacion central y tomar hacia elmonte, apurate ranita se te ve la ultima micro"
             className="w-full h-full object-cover rounded-xl border-4 border-white shadow-md shadow-gray-200"
           />

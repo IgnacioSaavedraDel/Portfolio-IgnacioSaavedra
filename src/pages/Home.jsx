@@ -10,7 +10,7 @@ function Home() {
         <div className="w-24 h-24 rounded-full overflow-hidden mb-6">
           <img
             className="w-full h-full scale-175 object-cover"
-            src="/proyectos/delcanto.webp"
+            src="/Proyectos/delcanto.webp"
             alt="Avatar"
           />
         </div>

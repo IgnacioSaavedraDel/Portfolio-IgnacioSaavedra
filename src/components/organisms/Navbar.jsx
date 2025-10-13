@@ -70,7 +70,7 @@ function Navbar() {
             onClick={() => handleClick({ label: "Inicio", path: "/" })}
           >
             <img
-              src="/logos/Isotipo_Corporativo.webp"
+              src="/Logos/Isotipo_Corporativo.webp"
               alt="Logo del canto."
               className="w-20 h-20 object-contain transition-transform duration-300 group-hover:scale-110"
             />
